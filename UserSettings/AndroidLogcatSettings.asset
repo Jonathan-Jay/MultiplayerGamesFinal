@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "emulator-5554",
         "name": "com.DefaultCompany.FinalExamTemplate",
-        "processId": 6052,
+        "processId": 6554,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -48,6 +48,12 @@
             "deviceId": "emulator-5554",
             "name": "com.DefaultCompany.FinalExamTemplate",
             "processId": 6052,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.DefaultCompany.FinalExamTemplate",
+            "processId": 6554,
             "exited": false
         }
     ],
